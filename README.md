@@ -1,6 +1,9 @@
 **Estudiante:** Luis Alejandro Camacho Benitez
+
 **Username de Hugging Face:** LuisCam7866
+
 **Curso:** [AI Agents Course](https://huggingface.co/learn/agents-course) (Hugging Face)
+
 **Materia:** Deep Learning 2026-2, Universidad Externado de Colombia
 
 ## Contenido
